@@ -7,9 +7,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from open-so
 
 open-source-libary:
 
-[pro-calc](https://github.com/xiaomao996688/calc)
 
-[zl-cli](https://github.com/xiaomao996688/zl-cli)
 
 Under continuous maintenance
 <!--
